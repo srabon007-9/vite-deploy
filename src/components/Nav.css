@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    display: flex;
+    background-color: rgb(244, 244, 230);
+}
+ul li{
+    list-style-type: none;
+    padding: 23px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li a:hover{
+    /* background-color: brown; */
+    color: brown;
+    padding: 5px;
+    background-color: burlywood;
+    border-radius: 5px;
+}
