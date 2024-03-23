@@ -25,7 +25,7 @@ const Main = () => {
     <div className="container">
         <div className="left-section">
             <div className="skill-section">
-                <h2>Skills:</h2>
+                <p>Skills:</p>
                 <p>
                 <pre className='code'>{data}</pre>
                 </p>
