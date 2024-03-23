@@ -3,7 +3,7 @@ import './Main.css'
 import Photo from './Photo.png'; 
 
 const Main = () => {
-    const zareef = `const Srabon = {
+    const data = `const Srabon = {
         pronouns: "He" | "Him",
         code: ["Javascript", "Python"],
         askMeAbout: ["Web App Dev"],
@@ -27,7 +27,7 @@ const Main = () => {
             <div className="skill-section">
                 <h2>Skills:</h2>
                 <p>
-                <pre className='code'>{zareef}</pre>
+                <pre className='code'>{data}</pre>
                 </p>
             </div>
             
